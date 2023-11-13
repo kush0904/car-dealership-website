@@ -20,11 +20,12 @@ A modern and interactive car showcasing website built using HTML, CSS, and Vanil
 <h3>Getting Started</h3>
 
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
-
-Copy code
-git clone https://github.com/kush0904/car-dealership-website.git
-cd car-dealership-website
-Open index.html in your preferred web browser.
+<ul>
+<li>Copy code</li>
+<li>git clone https://github.com/kush0904/car-dealership-website.git</li>
+<li>cd car-dealership-website</li>
+<li>Open index.html in your preferred web browser.</li>
+</ul>
 
 <h3>Demo</h3>
 Live Demo
