@@ -3,16 +3,19 @@
 A modern and interactive car showcasing website built using HTML, CSS, and Vanilla JavaScript. This website provides users with a rich experience, including high-quality images and videos of various car models, real-time car customization, an API to fetch car models by brand name, and a convenient way to locate the nearest dealers.
 
 <h3>Features</h3>
-High-Quality Media: Immerse yourself in stunning images and videos showcasing different car models.
 
-Real-Time Car Customization: Customize your dream car on the fly with our interactive customization feature.
+<ul>
 
-API Integration: Fetch car models by brand name using our seamless API integration, ensuring an up-to-date catalog.
+<li>High-Quality Media: Immerse yourself in stunning images and videos showcasing different car models.</li>
 
-Dealer Locator: Easily locate the nearest dealers to explore the cars in person or schedule a test drive.
+<li>Real-Time Car Customization: Customize your dream car on the fly with our interactive customization feature.</li>
 
-<h3>Screenshots</h3>
-Include a few screenshots or GIFs to visually demonstrate the key features of your website.
+<li>API Integration: Fetch car models by brand name using our seamless API integration, ensuring an up-to-date catalog.</li>
+
+<li>Dealer Locator: Easily locate the nearest dealers to explore the cars in person or schedule a test drive.</li>
+
+</ul>
+
 
 <h3>Getting Started</h3>
 
@@ -24,9 +27,9 @@ cd car-dealership-website
 Open index.html in your preferred web browser.
 
 <h3>Demo</h3>
-[Live Demo.
-](https://spotlight-pi.vercel.app/)
 Live Demo
+https://spotlight-pi.vercel.app/
+
 
 <h3>Technologies Used</h3>
 HTML
